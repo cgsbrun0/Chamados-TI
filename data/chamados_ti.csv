@@ -1,0 +1,31 @@
+id_chamado,data_abertura,data_fechamento,categoria,prioridade,setor,tecnico,status,sla_horas,satisfacao
+CH001,2026-08-01 08:10,2026-08-01 09:00,Acesso e senha,Média,Financeiro,Ana,Concluído,8,5
+CH002,2026-08-01 09:20,2026-08-01 13:40,Hardware,Alta,Operações,Bruno,Concluído,4,4
+CH003,2026-08-02 10:00,2026-08-03 11:30,Software,Média,RH,Caio,Concluído,8,3
+CH004,2026-08-03 07:50,2026-08-03 09:10,Rede,Crítica,Operações,Ana,Concluído,2,5
+CH005,2026-08-03 14:15,2026-08-04 10:00,E-mail,Baixa,Comercial,Bruno,Concluído,24,4
+CH006,2026-08-04 08:30,2026-08-04 16:30,Impressora,Média,Administrativo,Caio,Concluído,8,4
+CH007,2026-08-05 11:10,2026-08-05 12:00,Acesso e senha,Alta,Financeiro,Ana,Concluído,4,5
+CH008,2026-08-06 13:00,2026-08-07 16:20,Hardware,Média,Comercial,Bruno,Concluído,8,2
+CH009,2026-08-07 08:00,2026-08-07 10:45,Rede,Alta,Operações,Caio,Concluído,4,4
+CH010,2026-08-08 09:40,2026-08-08 10:05,Acesso e senha,Baixa,RH,Ana,Concluído,24,5
+CH011,2026-08-10 10:10,2026-08-10 15:30,Software,Média,Financeiro,Bruno,Concluído,8,4
+CH012,2026-08-11 06:50,2026-08-11 08:15,Rede,Crítica,Operações,Caio,Concluído,2,5
+CH013,2026-08-12 13:25,2026-08-13 09:10,Impressora,Baixa,Administrativo,Ana,Concluído,24,3
+CH014,2026-08-13 15:00,2026-08-13 17:45,E-mail,Média,Comercial,Bruno,Concluído,8,4
+CH015,2026-08-14 08:05,2026-08-14 12:50,Hardware,Alta,Operações,Caio,Concluído,4,3
+CH016,2026-08-15 10:30,2026-08-15 11:00,Acesso e senha,Média,RH,Ana,Concluído,8,5
+CH017,2026-08-17 09:15,2026-08-18 14:00,Software,Baixa,Financeiro,Bruno,Concluído,24,2
+CH018,2026-08-18 11:40,2026-08-18 13:10,Rede,Alta,Comercial,Caio,Concluído,4,5
+CH019,2026-08-19 08:20,2026-08-19 14:35,Impressora,Média,Administrativo,Ana,Concluído,8,4
+CH020,2026-08-20 16:00,2026-08-21 09:30,E-mail,Baixa,RH,Bruno,Concluído,24,4
+CH021,2026-09-01 08:10,2026-09-01 08:35,Acesso e senha,Média,Financeiro,Caio,Concluído,8,5
+CH022,2026-09-02 09:00,2026-09-02 15:50,Hardware,Alta,Operações,Ana,Concluído,4,3
+CH023,2026-09-03 10:30,2026-09-04 08:20,Software,Média,Comercial,Bruno,Concluído,8,3
+CH024,2026-09-04 07:40,2026-09-04 09:20,Rede,Crítica,Operações,Caio,Concluído,2,4
+CH025,2026-09-05 13:15,2026-09-06 10:00,E-mail,Baixa,RH,Ana,Concluído,24,4
+CH026,2026-09-07 08:00,2026-09-07 12:30,Impressora,Média,Administrativo,Bruno,Concluído,8,4
+CH027,2026-09-08 14:20,2026-09-08 15:10,Acesso e senha,Alta,Financeiro,Caio,Concluído,4,5
+CH028,2026-09-09 10:10,2026-09-10 15:00,Hardware,Média,Comercial,Ana,Concluído,8,2
+CH029,2026-09-10 07:50,2026-09-10 11:30,Rede,Alta,Operações,Bruno,Concluído,4,4
+CH030,2026-09-11 09:00,,Software,Baixa,RH,Caio,Aberto,24,
