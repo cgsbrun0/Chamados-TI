@@ -111,6 +111,21 @@ python src/analise.py
 
 Os indicadores aparecerão no terminal. Os gráficos e o resumo por categoria serão salvos em `outputs/`.
 
+### 5. Dados
+
+#### Terminal
+ Após você executar o script (vou chamar ele assim), será fornecido os dados no Terminal, dessa forma:
+
+ ![Resultado da análise no terminal](docs/images/resultado-terminal.png)
+
+#### Gráficos
+
+Como geramos apenas a tabela do terminal, agora vamos mostrar a tabela do dado do terminal. Vamos chamar os gráficos com `ls -lh outputs`.
+ ![Chamando gráficos no terminal](docs/images/Chamando-gráfico.png)
+
+ Como apenas chamamos os gráficos, não conseguimos clicar na imagem para abrir os gráficos, porém, ao usar `xdg-open outputs` podemos baixar os arquivos no computador e poder abrir eles, dessa forma vamos ter os arquivos de chamados por categoria, cumprimento da SLA, resumo por categoria, tempo por prioridade. Todos esses gráficos são essenciais para montar um dashboard que mostre a eficiência do nosso trabalho, como estamos dividindo o nosso tempo para resolver os chamados e como as prioridades estão sendo ordenadadas. Ao abrir os arquivos gráficos, teremos uma tela parecida com essa:
+
+ ![Gráficos de dados de TI](docs/images/graficos_gerados.png)
 ## Indicadores do MVP
 
 O código calcula:
@@ -266,7 +281,3 @@ Em transição e desenvolvimento profissional para a área de Análise de Dados.
 
 Os dados deste repositório são fictícios e foram criados exclusivamente para estudo. Não representam pessoas, empresas ou atendimentos reais.
 
-
-## Resultados reais
-
-Para fins comparativos, foi adicionado uma sessão para determinar resultados reais a partir do uso do sistema. Assim, pode executar o script e apresentar indicadores e prévias reais dos gráficos gerados para que possamos mostrar nossos dados de maneira mais visual.
